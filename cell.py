@@ -142,3 +142,4 @@ class Cell:
 
     def __repr__(self):
         return f"Cell({self.x},{self.y})"
+
